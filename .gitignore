@@ -1,0 +1,15 @@
+/bin/
+/dist*/
+/target/
+tmp/*
+!tmp/keepthis.txt
+/javadocs/
+/.settings/
+/.idea/
+/mylog*.txt
+.project
+.classpath
+.idea/
+*.iml
+**/.DS_Store
+__pycache__/
